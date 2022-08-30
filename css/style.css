@@ -6,6 +6,16 @@
   }
 
   a {
-    color: rgb(243, 4, 24);
+    color: rgb(2, 66, 96);
     text-decoration: none;
   }
+
+  h2 {
+    color:rgb(34, 120, 200);
+    text-transform: uppercase;
+  }
+
+  main {
+    margin-top: 6rem;
+  }
+  
